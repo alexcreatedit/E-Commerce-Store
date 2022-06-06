@@ -23,7 +23,7 @@
   Followed by creating the MySql database through use of the schema file located inside the db folder. 
   Then you would need to configure a .env file in which you can pair the DB and setting up you PW and USER.
   
-  In the project directory: 
+  In the project directory run: 
   
   ### `npm run seed`
   

@@ -3,7 +3,7 @@
  # Description 
   This project shows the process of a setting up a server and database for an online store. 
   
-  ![DEMO VIDEO](https://drive.google.com/file/d/1IZS8zzcwfJM_w5hW7V31jDuUjCVB_jZW/view?usp=sharing)
+  [DEMO VIDEO](https://drive.google.com/file/d/1IZS8zzcwfJM_w5hW7V31jDuUjCVB_jZW/view?usp=sharing)
   
   # Table of Contents
   
